@@ -1,4 +1,4 @@
-# quarkus-dpop-demo
+# Quarkus DPoP Example
 
 A companion project for the article [DPoP: Because Bearer Tokens Are Not Enough](../article.md). It demonstrates how to secure a Quarkus REST API with DPoP (Demonstration of Proof-of-Possession) as defined in [RFC 9449](https://datatracker.ietf.org/doc/html/rfc9449).
 
