@@ -1,6 +1,6 @@
 # Quarkus DPoP Example
 
-A companion project for the article [DPoP: Because Bearer Tokens Are Not Enough](https://medium.com/@hakdogan/dpop-what-it-is-how-it-works-and-why-bearer-tokens-arent-enough-d37bcbbe4493). It demonstrates how to secure a Quarkus REST API with DPoP (Demonstration of Proof-of-Possession) as defined in [RFC 9449](https://datatracker.ietf.org/doc/html/rfc9449).
+A companion project for the article [DPoP: What It Is, How It Works, and Why Bearer Tokens Aren't Enough](https://medium.com/@hakdogan/dpop-what-it-is-how-it-works-and-why-bearer-tokens-arent-enough-d37bcbbe4493). It demonstrates how to secure a Quarkus REST API with DPoP (Demonstration of Proof-of-Possession) as defined in [RFC 9449](https://datatracker.ietf.org/doc/html/rfc9449).
 
 ## What it covers
 
